@@ -450,3 +450,4 @@
 434	common	pidfd_open			sys_pidfd_open
 435	common	clone3				sys_clone3
 436	common	listProcessInfo		sys_listProcessInfo
+437	common	solda				sys_solda
